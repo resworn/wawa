@@ -1,1 +1,1 @@
-worker: python main.py
+worker: python wawa/main.py
